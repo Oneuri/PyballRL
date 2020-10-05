@@ -9,3 +9,7 @@ A reinforcement learning algorithm, or agent, learns by interacting with its env
 **
 
 ![2](https://user-images.githubusercontent.com/59758205/95090966-7f9b0080-0743-11eb-8cfc-9697dc7f7dad.PNG)
+**
+
+
+![3](https://user-images.githubusercontent.com/59758205/95090977-8164c400-0743-11eb-98ab-d3bd7d2a01fd.PNG)
